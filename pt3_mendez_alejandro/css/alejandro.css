@@ -1,0 +1,137 @@
+body.font {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(211, 211, 211);
+    margin: 0;
+}
+
+footer{
+    background-color: #333;
+}
+
+.fmenu{
+    display: table;
+    margin: 0 auto;
+    padding: 20px;
+}
+.hmenu{
+    display: table;
+    margin: 0 auto;
+}
+
+.menu {
+    display: block;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    float: left;
+    list-style: none;
+}
+
+.menu li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 0.5rem;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.fmenu li a:hover {
+    background-color: #111;
+}
+.hmenu li a:hover {
+    color: #7ABA96;
+
+}
+
+
+aside.sobre_mi {
+    display: inline-block;
+    float: left;
+    margin-left: 1%;
+    width: 15%;
+    font-size: 20px;
+    text-align: center;
+}
+
+.blog {
+    background-color: darkgray;
+}
+
+section.recetas {
+    display: inline-block;
+    float: right;
+    margin-right: 100%;
+    width: 100%;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+  }
+  
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 50px;
+    font-size: 20px;
+    text-align: center;
+  }
+
+table{
+    margin: 0 ;
+    padding: 20px;
+    text-align: center;
+  }
+  .margen{
+      margin-left: 20%;
+  }
+
+
+aside.anuncio{
+    display: inline-block;
+    float: right;
+    margin-left: 1%;
+    width: 20%;padding: 80px;
+}
+
+section.pasta{
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffeffd;
+}
+
+section.galletas{
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffeffd;
+}
+
+section.mijo{
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffeffd;
+}
+
+section.calabacines{
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffeffd;
+}
+
+section.contactos{
+    display: block;
+    text-align: center;
+    height: 250px;
+    padding: 50px;
+}
