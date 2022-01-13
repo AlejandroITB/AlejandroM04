@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="template.xslt"?>
+<receptes>
+  <recepta>
+    <title>PASTA CON SALSA DE COLIFLOR Y PIMIENTA DE JAMAICA</title>
+      <url>../receta/receta1.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>25 min</tiempo_total>
+    </tiempo>
+    <ingredientes>
+      <cantidad>
+        - 5 a 6 tazas de floretes de coliflor
+				- 7 tazas de agua + 1 cubito de caldo de verduras
+				- 2 cucharadas de mantequilla
+				- 2 a 3 cucharaditas de ajo picado
+				- 1 cucharadita de sal
+			  - 1/2 cucharadita de pimienta negra
+				- 1 pizca de pimienta de cayena
+        - 1/2 taza de leche
+        - 1 taza de queso parmesano rallado
+        - Un paquete de pasta de su elección
+      </cantidad>
+    </ingredientes>
+  </recepta>
+
+  <recepta>
+    <title>GALLETAS DE AVENA, ROSA Y LIMA</title>
+        <url>../receta/receta2.html</url>
+    <dificultad>
+        <nivel>Facil</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>35 min</tiempo_total>
+    </tiempo>
+    <ingredientes>
+      <cantidad>
+        - ¾ taza de harina de avena
+				- ¼ taza de azúcar de coco
+				- ½ cucharada de semillas de lino triturado
+				- 4 gotas de esencia de rosa
+				- 40ml de aceite de oliva virgen extra
+			  - ½ lima rallada 
+				- Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar
+      </cantidad>
+    </ingredientes>
+  </recepta>
+
+  <recepta>
+    <title>MIJO CREMOSO CON LENTEJAS, HORTALIZAS Y SHIITAKE</title>
+        <url>../receta/receta3.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>30 min</tiempo_total>
+    </tiempo>
+        <ingredientes>
+      <cantidad>
+        - 2 cucharadas de aceite de oliva virgen extra
+				- 1 cebolla grande
+				- 2 dientes de ajo
+				- 300 g de boniato pelado
+				- 300 g de coliflor
+			  - 500 ml de agua
+				- 1/2 taza de mijo
+        - 1 cucharadita de sal
+        - 5 o 6 setas shiitake
+        - 1 taza de leche de almendras sin endulzar
+        - 1/2 cucharadita de curry en polvo
+      </cantidad>
+    </ingredientes>
+  </recepta>
+  <recepta>
+    <title>CALABACINES RELLENOS DE ARROZ NEGRO Y CALABAZA</title>
+        <url>../receta/receta4.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>100 min</tiempo_total>
+    </tiempo>
+        <ingredientes>
+      <cantidad>
+        - 6 calabacines redondos
+				- 2 T de arroz negro sin cocinar
+				- 4 T de agua
+				- 2 c de sal de Himalaya
+				- Un poco de alga wakame
+			  - 400-500 g de setas shiitake frescas
+				- 6 cebolletas tiernas
+        - 3 c de comino
+        - 2 C de cebolla seca molida
+        - 2 C de aceite de oliva
+        - Pimienta negra
+        - Sal para ajustar al gusto
+        - 3 C de piñones tostados
+      </cantidad>
+    </ingredientes>
+  </recepta>
+  <recepta>
+    <title>PASTA CON SALSA DE COLIFLOR Y PIMIENTA DE JAMAICA</title>
+      <url>../receta/receta1.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>25 min</tiempo_total>
+    </tiempo>
+    <ingredientes>
+      <cantidad>
+        - 5 a 6 tazas de floretes de coliflor
+				- 7 tazas de agua + 1 cubito de caldo de verduras
+				- 2 cucharadas de mantequilla
+				- 2 a 3 cucharaditas de ajo picado
+				- 1 cucharadita de sal
+			  - 1/2 cucharadita de pimienta negra
+				- 1 pizca de pimienta de cayena
+        - 1/2 taza de leche
+        - 1 taza de queso parmesano rallado
+        - Un paquete de pasta de su elección
+      </cantidad>
+    </ingredientes>
+  </recepta>
+
+  <recepta>
+    <title>GALLETAS DE AVENA, ROSA Y LIMA</title>
+        <url>../receta/receta2.html</url>
+    <dificultad>
+        <nivel>Facil</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>35 min</tiempo_total>
+    </tiempo>
+    <ingredientes>
+      <cantidad>
+        - ¾ taza de harina de avena
+				- ¼ taza de azúcar de coco
+				- ½ cucharada de semillas de lino triturado
+				- 4 gotas de esencia de rosa
+				- 40ml de aceite de oliva virgen extra
+			  - ½ lima rallada 
+				- Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar
+      </cantidad>
+    </ingredientes>
+  </recepta>
+
+  <recepta>
+    <title>MIJO CREMOSO CON LENTEJAS, HORTALIZAS Y SHIITAKE</title>
+        <url>../receta/receta3.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>30 min</tiempo_total>
+    </tiempo>
+        <ingredientes>
+      <cantidad>
+        - 2 cucharadas de aceite de oliva virgen extra
+				- 1 cebolla grande
+				- 2 dientes de ajo
+				- 300 g de boniato pelado
+				- 300 g de coliflor
+			  - 500 ml de agua
+				- 1/2 taza de mijo
+        - 1 cucharadita de sal
+        - 5 o 6 setas shiitake
+        - 1 taza de leche de almendras sin endulzar
+        - 1/2 cucharadita de curry en polvo
+      </cantidad>
+    </ingredientes>
+  </recepta>
+  <recepta>
+    <title>CALABACINES RELLENOS DE ARROZ NEGRO Y CALABAZA</title>
+        <url>../receta/receta4.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>100 min</tiempo_total>
+    </tiempo>
+        <ingredientes>
+      <cantidad>
+        - 6 calabacines redondos
+				- 2 T de arroz negro sin cocinar
+				- 4 T de agua
+				- 2 c de sal de Himalaya
+				- Un poco de alga wakame
+			  - 400-500 g de setas shiitake frescas
+				- 6 cebolletas tiernas
+        - 3 c de comino
+        - 2 C de cebolla seca molida
+        - 2 C de aceite de oliva
+        - Pimienta negra
+        - Sal para ajustar al gusto
+        - 3 C de piñones tostados
+      </cantidad>
+    </ingredientes>
+  </recepta>
+  <recepta>
+    <title>PASTA CON SALSA DE COLIFLOR Y PIMIENTA DE JAMAICA</title>
+      <url>../receta/receta1.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>25 min</tiempo_total>
+    </tiempo>
+    <ingredientes>
+      <cantidad>
+        - 5 a 6 tazas de floretes de coliflor
+				- 7 tazas de agua + 1 cubito de caldo de verduras
+				- 2 cucharadas de mantequilla
+				- 2 a 3 cucharaditas de ajo picado
+				- 1 cucharadita de sal
+			  - 1/2 cucharadita de pimienta negra
+				- 1 pizca de pimienta de cayena
+        - 1/2 taza de leche
+        - 1 taza de queso parmesano rallado
+        - Un paquete de pasta de su elección
+      </cantidad>
+    </ingredientes>
+  </recepta>
+
+  <recepta>
+    <title>GALLETAS DE AVENA, ROSA Y LIMA</title>
+        <url>../receta/receta2.html</url>
+    <dificultad>
+        <nivel>Facil</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>35 min</tiempo_total>
+    </tiempo>
+    <ingredientes>
+      <cantidad>
+        - ¾ taza de harina de avena
+				- ¼ taza de azúcar de coco
+				- ½ cucharada de semillas de lino triturado
+				- 4 gotas de esencia de rosa
+				- 40ml de aceite de oliva virgen extra
+			  - ½ lima rallada 
+				- Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar
+      </cantidad>
+    </ingredientes>
+  </recepta>
+
+  <recepta>
+    <title>MIJO CREMOSO CON LENTEJAS, HORTALIZAS Y SHIITAKE</title>
+        <url>../receta/receta3.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>30 min</tiempo_total>
+    </tiempo>
+        <ingredientes>
+      <cantidad>
+        - 2 cucharadas de aceite de oliva virgen extra
+				- 1 cebolla grande
+				- 2 dientes de ajo
+				- 300 g de boniato pelado
+				- 300 g de coliflor
+			  - 500 ml de agua
+				- 1/2 taza de mijo
+        - 1 cucharadita de sal
+        - 5 o 6 setas shiitake
+        - 1 taza de leche de almendras sin endulzar
+        - 1/2 cucharadita de curry en polvo
+      </cantidad>
+    </ingredientes>
+  </recepta>
+  <recepta>
+    <title>CALABACINES RELLENOS DE ARROZ NEGRO Y CALABAZA</title>
+        <url>../receta/receta4.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>100 min</tiempo_total>
+    </tiempo>
+        <ingredientes>
+      <cantidad>
+        - 6 calabacines redondos
+				- 2 T de arroz negro sin cocinar
+				- 4 T de agua
+				- 2 c de sal de Himalaya
+				- Un poco de alga wakame
+			  - 400-500 g de setas shiitake frescas
+				- 6 cebolletas tiernas
+        - 3 c de comino
+        - 2 C de cebolla seca molida
+        - 2 C de aceite de oliva
+        - Pimienta negra
+        - Sal para ajustar al gusto
+        - 3 C de piñones tostados
+      </cantidad>
+    </ingredientes>
+  </recepta>
+  <recepta>
+    <title>PASTA CON SALSA DE COLIFLOR Y PIMIENTA DE JAMAICA</title>
+      <url>../receta/receta1.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>25 min</tiempo_total>
+    </tiempo>
+    <ingredientes>
+      <cantidad>
+        - 5 a 6 tazas de floretes de coliflor
+				- 7 tazas de agua + 1 cubito de caldo de verduras
+				- 2 cucharadas de mantequilla
+				- 2 a 3 cucharaditas de ajo picado
+				- 1 cucharadita de sal
+			  - 1/2 cucharadita de pimienta negra
+				- 1 pizca de pimienta de cayena
+        - 1/2 taza de leche
+        - 1 taza de queso parmesano rallado
+        - Un paquete de pasta de su elección
+      </cantidad>
+    </ingredientes>
+  </recepta>
+
+  <recepta>
+    <title>GALLETAS DE AVENA, ROSA Y LIMA</title>
+        <url>../receta/receta2.html</url>
+    <dificultad>
+        <nivel>Facil</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>35 min</tiempo_total>
+    </tiempo>
+    <ingredientes>
+      <cantidad>
+        - ¾ taza de harina de avena
+				- ¼ taza de azúcar de coco
+				- ½ cucharada de semillas de lino triturado
+				- 4 gotas de esencia de rosa
+				- 40ml de aceite de oliva virgen extra
+			  - ½ lima rallada 
+				- Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar
+      </cantidad>
+    </ingredientes>
+  </recepta>
+
+  <recepta>
+    <title>MIJO CREMOSO CON LENTEJAS, HORTALIZAS Y SHIITAKE</title>
+        <url>../receta/receta3.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>30 min</tiempo_total>
+    </tiempo>
+        <ingredientes>
+      <cantidad>
+        - 2 cucharadas de aceite de oliva virgen extra
+				- 1 cebolla grande
+				- 2 dientes de ajo
+				- 300 g de boniato pelado
+				- 300 g de coliflor
+			  - 500 ml de agua
+				- 1/2 taza de mijo
+        - 1 cucharadita de sal
+        - 5 o 6 setas shiitake
+        - 1 taza de leche de almendras sin endulzar
+        - 1/2 cucharadita de curry en polvo
+      </cantidad>
+    </ingredientes>
+  </recepta>
+  <recepta>
+    <title>CALABACINES RELLENOS DE ARROZ NEGRO Y CALABAZA</title>
+        <url>../receta/receta4.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>100 min</tiempo_total>
+    </tiempo>
+        <ingredientes>
+      <cantidad>
+        - 6 calabacines redondos
+				- 2 T de arroz negro sin cocinar
+				- 4 T de agua
+				- 2 c de sal de Himalaya
+				- Un poco de alga wakame
+			  - 400-500 g de setas shiitake frescas
+				- 6 cebolletas tiernas
+        - 3 c de comino
+        - 2 C de cebolla seca molida
+        - 2 C de aceite de oliva
+        - Pimienta negra
+        - Sal para ajustar al gusto
+        - 3 C de piñones tostados
+      </cantidad>
+    </ingredientes>
+  </recepta>
+  <recepta>
+    <title>PASTA CON SALSA DE COLIFLOR Y PIMIENTA DE JAMAICA</title>
+      <url>../receta/receta1.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>25 min</tiempo_total>
+    </tiempo>
+    <ingredientes>
+      <cantidad>
+        - 5 a 6 tazas de floretes de coliflor
+				- 7 tazas de agua + 1 cubito de caldo de verduras
+				- 2 cucharadas de mantequilla
+				- 2 a 3 cucharaditas de ajo picado
+				- 1 cucharadita de sal
+			  - 1/2 cucharadita de pimienta negra
+				- 1 pizca de pimienta de cayena
+        - 1/2 taza de leche
+        - 1 taza de queso parmesano rallado
+        - Un paquete de pasta de su elección
+      </cantidad>
+    </ingredientes>
+  </recepta>
+
+  <recepta>
+    <title>GALLETAS DE AVENA, ROSA Y LIMA</title>
+        <url>../receta/receta2.html</url>
+    <dificultad>
+        <nivel>Facil</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>35 min</tiempo_total>
+    </tiempo>
+    <ingredientes>
+      <cantidad>
+        - ¾ taza de harina de avena
+				- ¼ taza de azúcar de coco
+				- ½ cucharada de semillas de lino triturado
+				- 4 gotas de esencia de rosa
+				- 40ml de aceite de oliva virgen extra
+			  - ½ lima rallada 
+				- Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar
+      </cantidad>
+    </ingredientes>
+  </recepta>
+
+  <recepta>
+    <title>MIJO CREMOSO CON LENTEJAS, HORTALIZAS Y SHIITAKE</title>
+        <url>../receta/receta3.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>30 min</tiempo_total>
+    </tiempo>
+        <ingredientes>
+      <cantidad>
+        - 2 cucharadas de aceite de oliva virgen extra
+				- 1 cebolla grande
+				- 2 dientes de ajo
+				- 300 g de boniato pelado
+				- 300 g de coliflor
+			  - 500 ml de agua
+				- 1/2 taza de mijo
+        - 1 cucharadita de sal
+        - 5 o 6 setas shiitake
+        - 1 taza de leche de almendras sin endulzar
+        - 1/2 cucharadita de curry en polvo
+      </cantidad>
+    </ingredientes>
+  </recepta>
+  <recepta>
+    <title>CALABACINES RELLENOS DE ARROZ NEGRO Y CALABAZA</title>
+        <url>../receta/receta4.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>100 min</tiempo_total>
+    </tiempo>
+        <ingredientes>
+      <cantidad>
+        - 6 calabacines redondos
+				- 2 T de arroz negro sin cocinar
+				- 4 T de agua
+				- 2 c de sal de Himalaya
+				- Un poco de alga wakame
+			  - 400-500 g de setas shiitake frescas
+				- 6 cebolletas tiernas
+        - 3 c de comino
+        - 2 C de cebolla seca molida
+        - 2 C de aceite de oliva
+        - Pimienta negra
+        - Sal para ajustar al gusto
+        - 3 C de piñones tostados
+      </cantidad>
+    </ingredientes>
+  </recepta>
+  <recepta>
+    <title>PASTA CON SALSA DE COLIFLOR Y PIMIENTA DE JAMAICA</title>
+      <url>../receta/receta1.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>25 min</tiempo_total>
+    </tiempo>
+    <ingredientes>
+      <cantidad>
+        - 5 a 6 tazas de floretes de coliflor
+				- 7 tazas de agua + 1 cubito de caldo de verduras
+				- 2 cucharadas de mantequilla
+				- 2 a 3 cucharaditas de ajo picado
+				- 1 cucharadita de sal
+			  - 1/2 cucharadita de pimienta negra
+				- 1 pizca de pimienta de cayena
+        - 1/2 taza de leche
+        - 1 taza de queso parmesano rallado
+        - Un paquete de pasta de su elección
+      </cantidad>
+    </ingredientes>
+  </recepta>
+
+  <recepta>
+    <title>GALLETAS DE AVENA, ROSA Y LIMA</title>
+        <url>../receta/receta2.html</url>
+    <dificultad>
+        <nivel>Facil</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>35 min</tiempo_total>
+    </tiempo>
+    <ingredientes>
+      <cantidad>
+        - ¾ taza de harina de avena
+				- ¼ taza de azúcar de coco
+				- ½ cucharada de semillas de lino triturado
+				- 4 gotas de esencia de rosa
+				- 40ml de aceite de oliva virgen extra
+			  - ½ lima rallada 
+				- Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar
+      </cantidad>
+    </ingredientes>
+  </recepta>
+
+  <recepta>
+    <title>MIJO CREMOSO CON LENTEJAS, HORTALIZAS Y SHIITAKE</title>
+        <url>../receta/receta3.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>30 min</tiempo_total>
+    </tiempo>
+        <ingredientes>
+      <cantidad>
+        - 2 cucharadas de aceite de oliva virgen extra
+				- 1 cebolla grande
+				- 2 dientes de ajo
+				- 300 g de boniato pelado
+				- 300 g de coliflor
+			  - 500 ml de agua
+				- 1/2 taza de mijo
+        - 1 cucharadita de sal
+        - 5 o 6 setas shiitake
+        - 1 taza de leche de almendras sin endulzar
+        - 1/2 cucharadita de curry en polvo
+      </cantidad>
+    </ingredientes>
+  </recepta>
+  <recepta>
+    <title>CALABACINES RELLENOS DE ARROZ NEGRO Y CALABAZA</title>
+        <url>../receta/receta4.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>100 min</tiempo_total>
+    </tiempo>
+        <ingredientes>
+      <cantidad>
+        - 6 calabacines redondos
+				- 2 T de arroz negro sin cocinar
+				- 4 T de agua
+				- 2 c de sal de Himalaya
+				- Un poco de alga wakame
+			  - 400-500 g de setas shiitake frescas
+				- 6 cebolletas tiernas
+        - 3 c de comino
+        - 2 C de cebolla seca molida
+        - 2 C de aceite de oliva
+        - Pimienta negra
+        - Sal para ajustar al gusto
+        - 3 C de piñones tostados
+      </cantidad>
+    </ingredientes>
+  </recepta>
+  <recepta>
+    <title>PASTA CON SALSA DE COLIFLOR Y PIMIENTA DE JAMAICA</title>
+      <url>../receta/receta1.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>25 min</tiempo_total>
+    </tiempo>
+    <ingredientes>
+      <cantidad>
+        - 5 a 6 tazas de floretes de coliflor
+				- 7 tazas de agua + 1 cubito de caldo de verduras
+				- 2 cucharadas de mantequilla
+				- 2 a 3 cucharaditas de ajo picado
+				- 1 cucharadita de sal
+			  - 1/2 cucharadita de pimienta negra
+				- 1 pizca de pimienta de cayena
+        - 1/2 taza de leche
+        - 1 taza de queso parmesano rallado
+        - Un paquete de pasta de su elección
+      </cantidad>
+    </ingredientes>
+  </recepta>
+
+  <recepta>
+    <title>GALLETAS DE AVENA, ROSA Y LIMA</title>
+        <url>../receta/receta2.html</url>
+    <dificultad>
+        <nivel>Facil</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>35 min</tiempo_total>
+    </tiempo>
+    <ingredientes>
+      <cantidad>
+        - ¾ taza de harina de avena
+				- ¼ taza de azúcar de coco
+				- ½ cucharada de semillas de lino triturado
+				- 4 gotas de esencia de rosa
+				- 40ml de aceite de oliva virgen extra
+			  - ½ lima rallada 
+				- Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar
+      </cantidad>
+    </ingredientes>
+  </recepta>
+
+  <recepta>
+    <title>MIJO CREMOSO CON LENTEJAS, HORTALIZAS Y SHIITAKE</title>
+        <url>../receta/receta3.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>30 min</tiempo_total>
+    </tiempo>
+        <ingredientes>
+      <cantidad>
+        - 2 cucharadas de aceite de oliva virgen extra
+				- 1 cebolla grande
+				- 2 dientes de ajo
+				- 300 g de boniato pelado
+				- 300 g de coliflor
+			  - 500 ml de agua
+				- 1/2 taza de mijo
+        - 1 cucharadita de sal
+        - 5 o 6 setas shiitake
+        - 1 taza de leche de almendras sin endulzar
+        - 1/2 cucharadita de curry en polvo
+      </cantidad>
+    </ingredientes>
+  </recepta>
+  <recepta>
+    <title>CALABACINES RELLENOS DE ARROZ NEGRO Y CALABAZA</title>
+        <url>../receta/receta4.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>100 min</tiempo_total>
+    </tiempo>
+        <ingredientes>
+      <cantidad>
+        - 6 calabacines redondos
+				- 2 T de arroz negro sin cocinar
+				- 4 T de agua
+				- 2 c de sal de Himalaya
+				- Un poco de alga wakame
+			  - 400-500 g de setas shiitake frescas
+				- 6 cebolletas tiernas
+        - 3 c de comino
+        - 2 C de cebolla seca molida
+        - 2 C de aceite de oliva
+        - Pimienta negra
+        - Sal para ajustar al gusto
+        - 3 C de piñones tostados
+      </cantidad>
+    </ingredientes>
+  </recepta>
+  <recepta>
+    <title>PASTA CON SALSA DE COLIFLOR Y PIMIENTA DE JAMAICA</title>
+      <url>../receta/receta1.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>25 min</tiempo_total>
+    </tiempo>
+    <ingredientes>
+      <cantidad>
+        - 5 a 6 tazas de floretes de coliflor
+				- 7 tazas de agua + 1 cubito de caldo de verduras
+				- 2 cucharadas de mantequilla
+				- 2 a 3 cucharaditas de ajo picado
+				- 1 cucharadita de sal
+			  - 1/2 cucharadita de pimienta negra
+				- 1 pizca de pimienta de cayena
+        - 1/2 taza de leche
+        - 1 taza de queso parmesano rallado
+        - Un paquete de pasta de su elección
+      </cantidad>
+    </ingredientes>
+  </recepta>
+
+  <recepta>
+    <title>GALLETAS DE AVENA, ROSA Y LIMA</title>
+        <url>../receta/receta2.html</url>
+    <dificultad>
+        <nivel>Facil</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>35 min</tiempo_total>
+    </tiempo>
+    <ingredientes>
+      <cantidad>
+        - ¾ taza de harina de avena
+				- ¼ taza de azúcar de coco
+				- ½ cucharada de semillas de lino triturado
+				- 4 gotas de esencia de rosa
+				- 40ml de aceite de oliva virgen extra
+			  - ½ lima rallada 
+				- Un poco de ágave en polvo a algún endulzante en polvo blanco para decorar
+      </cantidad>
+    </ingredientes>
+  </recepta>
+
+  <recepta>
+    <title>MIJO CREMOSO CON LENTEJAS, HORTALIZAS Y SHIITAKE</title>
+        <url>../receta/receta3.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>30 min</tiempo_total>
+    </tiempo>
+        <ingredientes>
+      <cantidad>
+        - 2 cucharadas de aceite de oliva virgen extra
+				- 1 cebolla grande
+				- 2 dientes de ajo
+				- 300 g de boniato pelado
+				- 300 g de coliflor
+			  - 500 ml de agua
+				- 1/2 taza de mijo
+        - 1 cucharadita de sal
+        - 5 o 6 setas shiitake
+        - 1 taza de leche de almendras sin endulzar
+        - 1/2 cucharadita de curry en polvo
+      </cantidad>
+    </ingredientes>
+  </recepta>
+  <recepta>
+    <title>CALABACINES RELLENOS DE ARROZ NEGRO Y CALABAZA</title>
+        <url>../receta/receta4.html</url>
+    <dificultad>
+        <nivel>Principiante</nivel>
+    </dificultad>
+    <tiempo>
+        <tiempo_total>100 min</tiempo_total>
+    </tiempo>
+        <ingredientes>
+      <cantidad>
+        - 6 calabacines redondos
+				- 2 T de arroz negro sin cocinar
+				- 4 T de agua
+				- 2 c de sal de Himalaya
+				- Un poco de alga wakame
+			  - 400-500 g de setas shiitake frescas
+				- 6 cebolletas tiernas
+        - 3 c de comino
+        - 2 C de cebolla seca molida
+        - 2 C de aceite de oliva
+        - Pimienta negra
+        - Sal para ajustar al gusto
+        - 3 C de piñones tostados
+      </cantidad>
+    </ingredientes>
+  </recepta>
+</receptes>
